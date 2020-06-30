@@ -1,6 +1,6 @@
 # insights-tag-example
 
-PRs past 24 hours
+PRs past 24 hour
 ![Insights chart](https://insights-tag.herokuapp.com/prActivity.png?repo=levindixon/insights-tag-example&groupBy=day)
 
 
